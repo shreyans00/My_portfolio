@@ -12,6 +12,16 @@ const Intro = () => {
           </h1>
           <h2>Competitive Programmer and MERN Stack Developer</h2>
           <h3>B.Tech || Fourth Year || Electrical Engineering</h3>
+          <h3>
+            <span style={{ color: "rgb(6, 100, 90)" }}>Minor</span> in Computer
+            Science and Engineering
+          </h3>
+          <h3>
+            <span style={{ color: "rgb(6, 100, 90)" }}>
+              Micro Specialisation
+            </span>{" "}
+            in Entrepreneurship and Innovation
+          </h3>
           <h3 className="cllg">
             <em>@ Indian Institue of Technology, Kharagpur</em>
           </h3>

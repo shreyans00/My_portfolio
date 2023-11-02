@@ -28,19 +28,28 @@ function Footer() {
               +91 6205 839 994
             </i>
             <div className="footer-icons">
-              <NavLink to="https://www.facebook.com/shreyans.raj.16/">
+              <NavLink
+                to="https://www.facebook.com/shreyans.raj.16/"
+                target="_blank"
+              >
                 <img src={fb} alt="Facebook" />
               </NavLink>
-              <NavLink to="https://www.instagram.com/shreyans_8">
+              <NavLink
+                to="https://www.instagram.com/shreyans_8"
+                target="_blank"
+              >
                 <img src={insta} alt="Instagram" />
               </NavLink>
-              <NavLink to="https://twitter.com">
+              <NavLink to="https://twitter.com" target="_blank">
                 <img src={twitter} alt="Twitter" />
               </NavLink>
-              <NavLink to="https://www.linkedin.com/in/shreyans-9b462524a/">
+              <NavLink
+                to="https://www.linkedin.com/in/shreyans-b39844299/"
+                target="_blank"
+              >
                 <img src={linkedin} alt="LinkedIn" />
               </NavLink>
-              <NavLink to="https://github.com/shreyans00">
+              <NavLink to="https://github.com/shreyans00" target="_blank">
                 <img src={github} alt="GitHub" />
               </NavLink>
             </div>

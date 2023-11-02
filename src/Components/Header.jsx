@@ -18,10 +18,10 @@ const Header = () => {
 
         <div className="show-resume">
           <a
-            href="https://drive.google.com/u/0/uc?id=1bYwux2UwYeMPPjX0g8DQQ-2Vywo6Q0y1&export=download"
+            href="https://drive.google.com/file/d/1AIGjx1eQLwjocysDS9F7YLAVlme4DGa7/view?usp=sharing"
             target="_blank"
           >
-            Download Resume
+            Resume
           </a>
         </div>
 
