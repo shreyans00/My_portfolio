@@ -18,7 +18,7 @@ const Header = () => {
 
         <div className="show-resume">
           <a
-            href="https://drive.google.com/file/d/1AIGjx1eQLwjocysDS9F7YLAVlme4DGa7/view?usp=sharing"
+            href="https://drive.google.com/file/d/1ZoystApVZoDFgJqkCvraxT5ZV8JtTuCe/view?usp=sharing"
             target="_blank"
           >
             Resume
